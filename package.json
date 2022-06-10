@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Rober2092/-MVC-Challenge-Tech-Blog/issues"
   },
-  "homepage": "https://github.com/Rober2092/-MVC-Challenge-Tech-Blog#readme"
+  "homepage": "https://github.com/Rober2092/-MVC-Challenge-Tech-Blog#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
